@@ -3,7 +3,7 @@
 ## Categories
 
 <!-- AUTO:CATEGORIES:BEGIN -->
-_No categories yet._
+- [postgresql](categories/postgresql.md)
 <!-- AUTO:CATEGORIES:END -->
 
 ## Pinned posts
@@ -23,5 +23,5 @@ _No categories yet._
 ## Latest posts
 
 <!-- AUTO:LATEST:BEGIN -->
-_No posts yet._
+- 2026-07-22 — [Partition Maintenance](posts/pg-partition-maintenance/pg-partition-maintenance.md)
 <!-- AUTO:LATEST:END -->
