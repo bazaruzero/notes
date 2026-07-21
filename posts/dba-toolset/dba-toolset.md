@@ -2,8 +2,8 @@
 ---
 title: "DBA Toolset"
 slug: dba-toolset
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-07-08
+updated: 2026-07-08
 author: admin
 categories: []
 tags: []
@@ -13,6 +13,98 @@ description: ""
 -->
 
 # DBA Toolset
+
+## Table of Contents
+
+- [Docs](#docs)
+- [Linux](#linux)
+  - [Linux Observability Tools](#linux-observability-tools)
+  - [CPU](#cpu)
+  - [Disk (Block Devices)](#disk-block-devices)
+  - [Memory](#memory)
+  - [Network](#network)
+  - [Approaches/Strategies](#approachesstrategies)
+- [Postgres](#postgres)
+  - [Postgres Observability Tools](#postgres-observability-tools)
+  - [Online](#online)
+  - [Historical](#historical)
+  - [Objects and Bloat](#objects-and-bloat)
+  - [SQL-tuning](#sql-tuning)
+  - [Monitoring Agents](#monitoring-agents)
+  - [Data Corruption](#data-corruption)
+  - [Audit and Security](#audit-and-security)
+  - [Migrations](#migrations)
+  - [High Availability](#high-availability)
+
+## Docs
+
+TODO
+
+## Linux
+
+### Linux Observability Tools
+
+TODO
+
+### CPU
+
+TODO
+
+### Disk (Block Devices)
+
+TODO
+
+### Memory
+
+TODO
+
+### Network
+
+TODO
+
+### Approaches/Strategies
+
+TODO
+
+## Postgres
+
+### Postgres Observability Tools
+
+TODO
+
+### Online
+
+TODO
+
+### Historical
+
+TODO
+
+### Objects and Bloat
+
+TODO
+
+### SQL-tuning
+
+TODO
+
+### Monitoring Agents
+
+TODO
+
+### Data Corruption
+
+TODO
+
+### Audit and Security
+
+TODO
+
+### Migrations
+
+TODO
+
+### High Availability
 
 TODO
 
