@@ -40,4 +40,5 @@
 - 2026-07-17 — [PostgreSQL Synchronous Commit Effects](posts/postgresql-synch-commit-effects/postgresql-synch-commit-effects.md)
 - 2026-07-16 — [HAProxy Setup for PostgreSQL](posts/haproxy-setup-for-postgresql/haproxy-setup-for-postgresql.md)
 - 2026-07-15 — [Oracle ADG setup with FSFO](posts/oracle-adg-fsfo/oracle-adg-fsfo.md)
+- 2026-07-14 — [Oracle Out of Place patching](posts/oracle-out-of-place-patching/oracle-out-of-place-patching.md)
 <!-- AUTO:LATEST:END -->
