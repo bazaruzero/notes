@@ -14,6 +14,9 @@ description: "Обзор механики работы pgBouncer: установ
 
 # pgBouncer Mechanics Overview
 
+> **ARCHIVED CONTENT**
+> The information in this post may no longer be accurate. Always refer to the latest official documentation for current best practices and features.
+
 ## Table of Contents
 
 - [Docs](#docs)
