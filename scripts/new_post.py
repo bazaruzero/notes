@@ -113,7 +113,7 @@ def rebuild_categories(posts: list[dict]) -> None:
 
     for cat in sorted(cats_from_posts - existing):
         (CATEGORIES_DIR / f"{cat}.md").write_text(
-            f"# {cat}\n\nDescription for the `{cat}` category.\n\n"
+            #f"# {cat}\n\nDescription for the `{cat}` category.\n\n"
             f"{MARKERS['posts'][0]}\n{MARKERS['posts'][1]}\n",
             encoding="utf-8",
         )
