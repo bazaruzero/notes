@@ -158,7 +158,7 @@ def rebuild_readme(posts: list[dict]) -> None:
         [p for p in posts if not p.get("pinned")],
         key=lambda p: str(p.get("created", "")),
         reverse=True,
-    )[:10]
+    )
     latest_block = "\n".join(
         f"- {p.get('created', '')} — {post_link(p, README)}" for p in latest
     ) or "_No posts yet._"
