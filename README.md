@@ -5,6 +5,7 @@
 <!-- AUTO:CATEGORIES:BEGIN -->
 - [postgresql](categories/postgresql.md)
 <!-- AUTO:CATEGORIES:END -->
+- [bookmarks](categories/bookmarks.md)
 
 ## Pinned posts
 

@@ -130,7 +130,7 @@ def rebuild_categories(posts: list[dict]) -> None:
             lines = [f"- {p.get('created', '')} — {post_link(p, cat_file)}" for p in items]
             content = "\n".join(lines)
         else:
-            content = "_No posts yet._"
+            content = ""
         begin, end = MARKERS["posts"]
         text = cat_file.read_text(encoding="utf-8")
         new_text = replace_block(text, begin, end, content)
