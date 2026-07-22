@@ -3,6 +3,8 @@
 ## Categories
 
 <!-- AUTO:CATEGORIES:BEGIN -->
+- [oracle](categories/oracle.md)
+
 - [postgresql](categories/postgresql.md)
 <!-- AUTO:CATEGORIES:END -->
 - [bookmarks](categories/bookmarks.md)
@@ -25,4 +27,5 @@
 
 <!-- AUTO:LATEST:BEGIN -->
 - 2026-07-22 — [Partition Maintenance](posts/pg-partition-maintenance/pg-partition-maintenance.md)
+- 2026-07-21 — [Oracle Database in Docker](posts/oracle-db-in-docker/oracle-db-in-docker.md)
 <!-- AUTO:LATEST:END -->

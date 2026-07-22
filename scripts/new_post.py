@@ -143,7 +143,7 @@ def rebuild_readme(posts: list[dict]) -> None:
     text = README.read_text(encoding="utf-8")
 
     cats = sorted({c for p in posts for c in p["categories"]})
-    cat_block = "\n".join(f"- [{c}](categories/{c}.md)" for c in cats) or "_No categories yet._"
+    cat_block = "\n\n".join(f"- [{c}](categories/{c}.md)" for c in cats) or "_No categories yet._"
     text = replace_block(text, *MARKERS["categories"], cat_block)
 
     pinned = sorted(
