@@ -5,7 +5,7 @@ slug: postgresql-synch-commit-effects
 created: 2026-07-17
 updated: 2026-07-17
 author: admin
-categories: [postgresql, archive]
+categories: [postgresql, theory-and-experiments, archive]
 tags: [postgresql, performance, benchmark]
 pinned: false
 description: "Benchmark results comparing PostgreSQL performance with synchronous_commit = on vs off."
