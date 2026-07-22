@@ -5,7 +5,7 @@ slug: etcd-mtls
 created: 2026-07-18
 updated: 2026-07-18
 author: admin
-categories: [postgresql, archive]
+categories: [postgresql, archive, miscellaneous]
 tags: [postgresql, etcd, mtls, patroni]
 pinned: false
 description: "Step by step instructions on how to reconfigure existing Etcd cluster to use mTLS."

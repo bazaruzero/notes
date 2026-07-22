@@ -5,7 +5,7 @@ slug: oracle-db-in-docker
 created: 2026-07-21
 updated: 2026-07-21
 author: admin
-categories: [oracle]
+categories: [oracle, miscellaneous]
 tags: [oracle, docker]
 pinned: false
 description: "Установка Oracle Database 19c в Docker-контейнере: подготовка окружения, сборка образа, запуск контейнера и проверка работы."
